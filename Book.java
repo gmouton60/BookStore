@@ -1,9 +1,3 @@
-//Student Name: Gerald Mouton
-//LSU ID:894569516
-//Lab Section:1
-//Assignment: Lab4
-//Submission Time: 5:30
-
 public class Book implements Comparable<Book> {
     private String title;
     private String author;
